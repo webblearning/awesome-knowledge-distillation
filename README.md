@@ -1,6 +1,6 @@
 # Awesome Knowledge Distillation
 ================================
-
+resource
 ### Papers
 - [Combining labeled and unlabeled data with co-training](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf), A. Blum, T. Mitchell, 1998 
 - [Model Compression](http://www.cs.cornell.edu/~caruana/compression.kdd06.pdf), Rich Caruana, 2006
